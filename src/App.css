@@ -58,6 +58,10 @@ body {
   outline: 0;
 }
 
+.position-select option {
+  color: black;
+}
+
 .disabled {
   cursor: none;
   pointer-events: none;
